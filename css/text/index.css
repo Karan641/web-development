@@ -1,0 +1,13 @@
+#text_formatting {
+    text-align: center;
+    background-color: blue;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-transform: uppercase;
+    font-family: "Bitter", serif;
+}
+
+p{
+    text-indent: 15px;
+    line-height: 1.6;
+}
