@@ -16,3 +16,8 @@ const paragraph =document.getElementsByClassName("class");
 const div = document.getElementsById("content")
 console.log(content, "content")
 content.innerHTML= <p> Hello <span> World <span> </span></span></p>
+
+const button = document.getElementById("button")
+button.addEventListener("click", ()=>{
+    title.textContent = "Karan's Document"
+});
